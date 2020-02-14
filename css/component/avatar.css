@@ -1,0 +1,16 @@
+#avatar{
+	width:350px;
+	height:350px;
+	border-radius: 50%;
+}
+
+#avatar2{
+	width: 200px;
+	height: 230px;
+	border-radius: 50%;
+}
+#avatar3{
+	width: 350px;
+	height: 350px;
+	border-radius: 20%;
+}
